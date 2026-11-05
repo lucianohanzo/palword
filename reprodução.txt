@@ -1,0 +1,20 @@
+Jormuntide (Dragão de Água)
+    - Anubis
+    - Whalaska
+
+    - Relaxaurus Lux
+        - Relaxaurus
+            - Anubis
+            - Beakon - Kitsun - Maraith
+        - Sparkit
+            - Lamball
+            - Pengullet
+    - Blazamut
+
+Suzaku (Dragão de fogo simples)
+    - Anubis
+    - Rayhound
+
+Flaracle (Feiticeiro de fogo)
+    - Anubis
+    - Lyleen
