@@ -18,3 +18,7 @@ Suzaku (Dragão de fogo simples)
 Flaracle (Feiticeiro de fogo)
     - Anubis
     - Lyleen
+
+Verdash (Tipo grama, bom para base)
+    - Menasting
+    - Suzaku
