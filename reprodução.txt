@@ -22,3 +22,7 @@ Flaracle (Feiticeiro de fogo)
 Verdash (Tipo grama, bom para base)
     - Menasting
     - Suzaku
+
+Penking (Pinguim)
+    - Fuack (Pato de àgua)
+    - Verdash
